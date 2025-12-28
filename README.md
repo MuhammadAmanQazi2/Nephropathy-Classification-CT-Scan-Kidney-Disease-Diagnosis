@@ -3,7 +3,8 @@
 A deep learning-based medical imaging system designed to classify kidney CT scans into four clinically significant categories: Normal, Cyst, Tumor, and Stone.
 Built with TensorFlow, utilizing transfer learning (VGG16) and a custom CNN model, and deployed as an interactive Streamlit web application for real-time clinical use.
 <img width="1506" height="673" alt="image" src="https://github.com/user-attachments/assets/c3427a92-2dc3-45e3-bd78-314c0009a69e" />
-<img width="558" height="661" alt="image" src="https://github.com/user-attachments/assets/7495fdb6-3b64-4bba-92c2-b9f5437ce8b3" />
+<img width="1016" height="700" alt="image" src="https://github.com/user-attachments/assets/88894796-3ea6-4e23-92a0-c8887c4c379a" />
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/fa4432c5-bcb4-4be5-a725-449705658067" />
 
 
 
